@@ -71,4 +71,3 @@ GitHub: https://github.com/monika1301-code
 
 ---
 
-Get Interactive Report:
